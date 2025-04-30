@@ -94,6 +94,7 @@ pip install -r requirements.txt
 
 ## File Structure
 
+```
 ├── original_image.png        # Input image
 ├── private_key.pem           # Private RSA key (keep secret)
 ├── public_key.pem            # Public RSA key (shareable)
@@ -102,6 +103,7 @@ pip install -r requirements.txt
 ├── verify.py                 # Script to verify the signature
 ├── requirements.txt          # List of required Python dependencies
 └── README.md                 # Documentation
+```
 
 ---
 
