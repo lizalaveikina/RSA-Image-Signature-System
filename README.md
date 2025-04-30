@@ -122,8 +122,7 @@ pip install -r requirements.txt
 
 ## Result
 
-The system successfully signs and verifies the integrity of images,  
-providing an elegant and secure method to detect tampering in visual digital content.
+The system successfully signs and verifies the integrity of images, providing an elegant and secure method to detect tampering in visual digital content.
 
 ---
 
